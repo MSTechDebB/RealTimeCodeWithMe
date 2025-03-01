@@ -24,9 +24,11 @@ To get started, clone this repository and set up your development environment.
 - **Dependency Inversion Principle (DIP)**: Depend on abstractions, not concretions.
 
 ## Real-Time Use Cases
-- Stock Trading Systems
-- Real-Time Chat Applications
-- Online Multiplayer Gaming
+- Banking System- Single Responsbility Principle
+- Payment Gateway System-Open Closed Principle
+- Managing Employees in a Company-Liskov substitution Principle
+- Restaurant Order Management System-Interface Segregation Principle
+- User Authentication - Dipendency Inversion Principle
 
 ## Contributing
 Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
